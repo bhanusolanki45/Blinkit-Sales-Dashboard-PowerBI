@@ -3,7 +3,7 @@
 
 # Blinkit Sales Dashboard - Power BI
 
-![Dashboard Preview](Screenshots/Dashboard_Main_View.png)
+![Dashboard Preview](https://github.com/bhanusolanki45/Blinkit-Sales-Dashboard-PowerBI/blob/main/Blinkit.pdf)
 
 ## Project Overview
 This is an interactive Power BI dashboard built to analyze Blinkit (India's leading quick-commerce grocery delivery platform) sales performance. The dashboard provides actionable insights into sales trends, outlet performance, item categories, fat content distribution, and customer ratings.
