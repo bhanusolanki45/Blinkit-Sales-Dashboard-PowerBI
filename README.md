@@ -48,9 +48,9 @@ The dataset used is a public/sample grocery sales dataset representing Blinkit o
 
 ---
 
-**Built by:** Bhanu  
-**LinkedIn:** [Add your LinkedIn URL here]  
-**Portfolio:** [Add link if you have one]
+**Built by:** Shashi Ranjan  
+**LinkedIn:** [https://www.linkedin.com/in/shashi-ranjan-kumar-73066b190/]  
+**Portfolio:** [https://marketing-data-1.preview.emergentagent.com/]
 
 Feel free to ⭐ star this repo if you find it useful!
 
