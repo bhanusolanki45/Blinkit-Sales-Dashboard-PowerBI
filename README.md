@@ -37,7 +37,7 @@ This is an interactive Power BI dashboard built to analyze Blinkit (India's lead
 The dataset used is a public/sample grocery sales dataset representing Blinkit operations (commonly used in data analytics tutorials and portfolios).
 
 ## Screenshots
-![Main Dashboard View](Screenshots/Dashboard_Main_View.png)
+![Main Dashboard View](https://github.com/bhanusolanki45/Blinkit-Sales-Dashboard-PowerBI/blob/main/Blinkit.pdf)
 
 *(Add more screenshots here if you have additional pages or specific visuals)*
 
