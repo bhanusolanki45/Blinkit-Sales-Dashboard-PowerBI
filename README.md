@@ -1,6 +1,17 @@
 # Blinkit-Sales-Dashboard-PowerBI
 "Interactive Power BI dashboard analyzing Blinkit grocery sales data – covering outlet performance, item types, fat content, sales trends, and key business metrics."
 
+Blinkit-Sales-Dashboard-PowerBI/
+├── Blinkit Sales Dashboard.pbix          # Your main Power BI file (rename it clearly)
+├── Screenshots/
+│   └── Dashboard_Main_View.png           # Save the provided screenshot as PNG
+│   └── (add more if you have other pages/views)
+├── Data/                                 # Optional – if you have the source CSV/Excel
+│   └── blinkit_data.csv                  # If you can share the dataset
+├── README.md
+├── LICENSE                               # Optional but professional – use MIT License
+└── .gitignore                            # Add PowerBI-specific ignores (template below)
+
 # Blinkit Sales Dashboard - Power BI
 
 ![Dashboard Preview](https://github.com/bhanusolanki45/Blinkit-Sales-Dashboard-PowerBI/blob/main/Blinkit.pdf)
